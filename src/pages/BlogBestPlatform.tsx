@@ -12,10 +12,10 @@ import blogImg from "@/assets/card-fantasy.jpg";
 
 const BlogBestPlatform = () => {
   useSeo({
-    title: "Best Online Sports Betting Platform for Beginners 2026 | Khelo24Login",
-    description: "Looking for the best online sports betting platform for beginners? Khelo24Login.live is India's easiest platform with free ID, fast payouts and 24x7 support.",
+    title: "Best Online Sports Betting Platform for Beginners 2026 | Khelo24Bet",
+    description: "Looking for the best online sports betting platform for beginners? Khelo24Bet is India's easiest platform with free ID, fast payouts and 24x7 support.",
     canonical: "/blog/best-online-sports-betting-platform-for-beginners",
-    keywords: "best betting platform beginners, online sports betting, khelo24login beginners",
+    keywords: "best betting platform beginners, online sports betting, khelo24bet beginners",
   });
 
   return (
@@ -28,15 +28,15 @@ const BlogBestPlatform = () => {
           Best Online Sports Betting Platform for <span className="text-gradient-gold">Beginners 2026</span>
         </h1>
 
-        <img src={blogImg} alt="best online sports betting platform india khelo24login.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="best online sports betting platform india khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
-          <h2 className="text-xl md:text-2xl font-bold mb-3">Why Beginners Love Khelo24Login</h2>
+          <h2 className="text-xl md:text-2xl font-bold mb-3">Why Beginners Love Khelo24Bet</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            If you're new to online betting, finding the <strong className="text-foreground">best online sports betting platform for beginners</strong> can be overwhelming. That's why Khelo24Login.live was designed with simplicity in mind. Our <strong className="text-foreground">online sports gaming platform</strong> requires zero technical knowledge — just WhatsApp and a UPI account.
+            If you're new to online betting, finding the <strong className="text-foreground">best online sports betting platform for beginners</strong> can be overwhelming. That's why Khelo24Bet was designed with simplicity in mind. Our <strong className="text-foreground">online sports gaming platform</strong> requires zero technical knowledge — just WhatsApp and a UPI account.
           </p>
           <p className="text-muted-foreground leading-relaxed">
-            Unlike complicated <strong className="text-foreground">online betting websites</strong>, Khelo24Login gives you a free cricket ID in under 60 seconds. No forms, no KYC hassle, no app downloads. It's the easiest <strong className="text-foreground">sports betting platform online</strong> to get started with.
+            Unlike complicated <strong className="text-foreground">online betting websites</strong>, Khelo24Bet gives you a free cricket ID in under 60 seconds. No forms, no KYC hassle, no app downloads. It's the easiest <strong className="text-foreground">sports betting platform online</strong> to get started with.
           </p>
         </section>
 

@@ -22,7 +22,7 @@ export const WhatsAppCTA = () => (
             Chat with our <span className="text-gradient-gold">AI Bot</span> on WhatsApp
           </h2>
           <p className="text-muted-foreground mb-6">
-            Get your ID, deposit, withdraw, place predictions, check live scores — all in one chat. No app needed. Powered by Khelo24Login.live official desk.
+            Get your ID, deposit, withdraw, place predictions, check live scores — all in one chat. No app needed. Powered by Khelo24Bet official desk.
           </p>
           <div className="flex flex-wrap gap-3">
             <Button onClick={openWA} size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-bold animate-pulse-glow">

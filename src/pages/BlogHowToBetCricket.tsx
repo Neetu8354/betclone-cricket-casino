@@ -12,8 +12,8 @@ import blogImg from "@/assets/card-livecricket.jpg";
 
 const BlogHowToBetCricket = () => {
   useSeo({
-    title: "How to Bet on Live Cricket Matches Online 2026 | Khelo24Login.live",
-    description: "Learn how to bet on live cricket matches online in 2026. Complete guide to live cricket betting on Khelo24Login.live with best odds.",
+    title: "How to Bet on Live Cricket Matches Online 2026 | Khelo24Bet",
+    description: "Learn how to bet on live cricket matches online in 2026. Complete guide to live cricket betting on Khelo24Bet with best odds.",
     canonical: "/blog/how-to-bet-on-live-cricket-matches-online",
     keywords: "bet on live cricket, live cricket betting, how to bet cricket online",
   });
@@ -28,12 +28,12 @@ const BlogHowToBetCricket = () => {
           How to Bet on Live Cricket <span className="text-gradient-gold">Matches Online</span>
         </h1>
 
-        <img src={blogImg} alt="how to bet on live cricket matches online khelo24login.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="how to bet on live cricket matches online khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
           <h2 className="text-xl md:text-2xl font-bold mb-3">Complete Guide to Live Cricket Betting</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            Want to learn <strong className="text-foreground">how to bet on live cricket matches online</strong>? Live cricket betting lets you place bets while the match is happening — making it more exciting and potentially more profitable than pre-match betting. Khelo24Login.live is the best <strong className="text-foreground">online sports gaming platform</strong> for live cricket betting in India.
+            Want to learn <strong className="text-foreground">how to bet on live cricket matches online</strong>? Live cricket betting lets you place bets while the match is happening — making it more exciting and potentially more profitable than pre-match betting. Khelo24Bet is the best <strong className="text-foreground">online sports gaming platform</strong> for live cricket betting in India.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             On our <strong className="text-foreground">sports betting platform online</strong>, you can bet on match winner, top batsman, total runs, wickets and many more markets — all updating in real-time as the game progresses.

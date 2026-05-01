@@ -7,8 +7,8 @@ import { BreadcrumbNav } from "@/components/BreadcrumbNav";
 import { ArrowRight } from "lucide-react";
 
 const BLOGS = [
-  { slug: "/blog/how-to-login-khelo24login", title: "How to Login Khelo24Login Step by Step Guide 2026", desc: "Complete step by step guide on how to login khelo24login with username." },
-  { slug: "/blog/how-to-use-khelo24login-online", title: "How to Use Khelo24Login Online — Complete Guide", desc: "Learn how to use khelo24login online platform and start playing instantly." },
+  { slug: "/blog/how-to-login-khelo24bet", title: "How to Login Khelo24Bet Step by Step Guide 2026", desc: "Complete step by step guide on how to login khelo24bet with username." },
+  { slug: "/blog/how-to-use-khelo24bet-online", title: "How to Use Khelo24Bet Online — Complete Guide", desc: "Learn how to use khelo24bet online platform and start playing instantly." },
   { slug: "/blog/best-online-sports-betting-platform-for-beginners", title: "Best Online Sports Betting Platform for Beginners 2026", desc: "India's easiest platform with free ID, fast payouts and 24x7 support." },
   { slug: "/blog/how-to-join-online-sports-gaming-website", title: "How to Join Online Sports Gaming Website", desc: "Get free cricket ID, deposit via UPI, and start playing instantly." },
   { slug: "/blog/live-cricket-betting-tips-online", title: "Live Cricket Betting Tips Online 2026", desc: "Expert predictions, match analysis and winning strategies." },
@@ -21,8 +21,8 @@ const BLOGS = [
 
 const BlogListing = () => {
   useSeo({
-    title: "Blog — Khelo24Login.live | Sports Gaming Tips & Guides",
-    description: "Read the latest tips, guides and strategies for online sports gaming on Khelo24Login.live. Cricket betting tips, Aviator strategies, login guides and more.",
+    title: "Blog — Khelo24Bet | Sports Gaming Tips & Guides",
+    description: "Read the latest tips, guides and strategies for online sports gaming on Khelo24Bet. Cricket betting tips, Aviator strategies, login guides and more.",
     canonical: "/blog",
     keywords: "sports betting blog, cricket betting tips, online gaming guides",
   });
@@ -35,7 +35,7 @@ const BlogListing = () => {
         <h1 className="text-3xl md:text-5xl font-black tracking-tight mb-4">
           Blog & <span className="text-gradient-gold">Guides</span>
         </h1>
-        <p className="text-muted-foreground max-w-2xl mb-10">Tips, strategies and step-by-step guides to help you win more on Khelo24Login.live.</p>
+        <p className="text-muted-foreground max-w-2xl mb-10">Tips, strategies and step-by-step guides to help you win more on Khelo24Bet.</p>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {BLOGS.map((b) => (

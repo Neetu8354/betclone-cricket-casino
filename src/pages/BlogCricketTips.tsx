@@ -12,8 +12,8 @@ import blogImg from "@/assets/card-livecricket.jpg";
 
 const BlogCricketTips = () => {
   useSeo({
-    title: "Live Cricket Betting Tips Online 2026 | Khelo24Login.live",
-    description: "Get the best live cricket betting tips online for 2026. Expert predictions, match analysis and winning strategies on Khelo24Login.live.",
+    title: "Live Cricket Betting Tips Online 2026 | Khelo24Bet",
+    description: "Get the best live cricket betting tips online for 2026. Expert predictions, match analysis and winning strategies on Khelo24Bet.",
     canonical: "/blog/live-cricket-betting-tips-online",
     keywords: "cricket betting tips, live cricket tips, betting predictions 2026",
   });
@@ -28,12 +28,12 @@ const BlogCricketTips = () => {
           Live Cricket Betting Tips <span className="text-gradient-gold">Online 2026</span>
         </h1>
 
-        <img src={blogImg} alt="live cricket betting tips online khelo24login.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="live cricket betting tips online khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
           <h2 className="text-xl md:text-2xl font-bold mb-3">Expert Cricket Betting Tips</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            Looking for <strong className="text-foreground">live cricket betting tips online</strong>? Whether it's IPL, T20 World Cup or ODI series, having the right strategy makes all the difference. On Khelo24Login.live — a trusted <strong className="text-foreground">online sports gaming platform</strong> — we help you make smarter bets with real-time insights.
+            Looking for <strong className="text-foreground">live cricket betting tips online</strong>? Whether it's IPL, T20 World Cup or ODI series, having the right strategy makes all the difference. On Khelo24Bet — a trusted <strong className="text-foreground">online sports gaming platform</strong> — we help you make smarter bets with real-time insights.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             Our <strong className="text-foreground">live sports betting site</strong> provides ball-by-ball updates, pitch reports, team form analysis and ML-powered predictions. You can <strong className="text-foreground">bet on live cricket matches online</strong> with confidence using our data-driven approach.

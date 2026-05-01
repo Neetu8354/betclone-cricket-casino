@@ -8,10 +8,10 @@ import promoLive from "@/assets/promo-live.jpg";
 import promoArcade from "@/assets/promo-arcade.jpg";
 
 const SLIDES = [
-  { img: hero, eyebrow: "IPL 2026 LIVE", title: "Cricket. Live. Unmissable.", sub: "Join the biggest cricket community on WhatsApp. Get instant updates, predictions and exclusive bonuses.", alt: "play online games on khelo24login.live" },
-  { img: promoFantasy, eyebrow: "FANTASY CRICKET", title: "Pick Your XI. Win ₹10 Lakh.", sub: "Daily fantasy contests on every match. Skill-based scoring, instant results.", alt: "free cricket ID on khelo24login.live" },
-  { img: promoLive, eyebrow: "LIVE SCORES", title: "Every Ball. Every Moment.", sub: "Real-time scoreboards, ball-by-ball commentary and ML-powered predictions.", alt: "get your ID and play now at khelo24login.live" },
-  { img: promoArcade, eyebrow: "PREMIUM CASINO", title: "Andar Bahar • Teen Patti • Roulette", sub: "Authentic Indian casino games with live dealers, 24/7 in INR.", alt: "play online games on khelo24login.live" },
+  { img: hero, eyebrow: "IPL 2026 LIVE", title: "Cricket. Live. Unmissable.", sub: "Join the biggest cricket community on WhatsApp. Get instant updates, predictions and exclusive bonuses.", alt: "play online games on khelo24app.live" },
+  { img: promoFantasy, eyebrow: "FANTASY CRICKET", title: "Pick Your XI. Win ₹10 Lakh.", sub: "Daily fantasy contests on every match. Skill-based scoring, instant results.", alt: "free cricket ID on khelo24app.live" },
+  { img: promoLive, eyebrow: "LIVE SCORES", title: "Every Ball. Every Moment.", sub: "Real-time scoreboards, ball-by-ball commentary and ML-powered predictions.", alt: "get your ID and play now at khelo24app.live" },
+  { img: promoArcade, eyebrow: "PREMIUM CASINO", title: "Andar Bahar • Teen Patti • Roulette", sub: "Authentic Indian casino games with live dealers, 24/7 in INR.", alt: "play online games on khelo24app.live" },
 ];
 
 export const HeroSlider = () => {

@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://khelo24login.live/sitemap.xml
+Sitemap: https://khelo24app.live/sitemap.xml
