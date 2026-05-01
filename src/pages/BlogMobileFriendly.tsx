@@ -12,10 +12,10 @@ import blogImg from "@/assets/promo-fantasy.jpg";
 
 const BlogMobileFriendly = () => {
   useSeo({
-    title: "Mobile Friendly Sports Betting Platforms 2026 | Khelo24Bet",
-    description: "Discover the best mobile friendly sports betting platforms in 2026. Khelo24Bet works perfectly on all phones with no app download needed.",
+    title: "Mobile Friendly Sports Betting Platforms 2026 | Khelo24x07",
+    description: "Discover the best mobile friendly sports betting platforms in 2026. Khelo24x07 works perfectly on all phones with no app download needed.",
     canonical: "/blog/mobile-friendly-sports-betting-platforms",
-    keywords: "mobile betting platform, mobile friendly betting, khelo24bet mobile",
+    keywords: "mobile betting platform, mobile friendly betting, khelo24x07 mobile",
   });
 
   return (
@@ -28,12 +28,12 @@ const BlogMobileFriendly = () => {
           Mobile Friendly Sports <span className="text-gradient-gold">Betting Platforms 2026</span>
         </h1>
 
-        <img src={blogImg} alt="mobile friendly sports betting platforms khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="mobile friendly sports betting platforms khelo24x07.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
           <h2 className="text-xl md:text-2xl font-bold mb-3">Why Mobile Betting Is the Future</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            In 2026, over 90% of Indian bettors play on their phones. That's why choosing <strong className="text-foreground">mobile friendly sports betting platforms</strong> is essential. Khelo24Bet is built mobile-first — every feature works perfectly on any smartphone without downloading any app.
+            In 2026, over 90% of Indian bettors play on their phones. That's why choosing <strong className="text-foreground">mobile friendly sports betting platforms</strong> is essential. Khelo24x07 is built mobile-first — every feature works perfectly on any smartphone without downloading any app.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             Our <strong className="text-foreground">online sports gaming platform</strong> loads in under 2 seconds on mobile, uses minimal data, and the WhatsApp-based system means you don't even need to open a browser for basic operations. It's the smartest <strong className="text-foreground">sports gaming app online</strong> experience without an actual app.
@@ -41,7 +41,7 @@ const BlogMobileFriendly = () => {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl md:text-2xl font-bold mb-3">What Makes Khelo24Bet Mobile-Friendly</h2>
+          <h2 className="text-xl md:text-2xl font-bold mb-3">What Makes Khelo24x07 Mobile-Friendly</h2>
           <div className="space-y-3">
             <div className="p-4 rounded-xl bg-card/50 border border-border">
               <h3 className="font-bold mb-1">No App Download Required</h3>
@@ -65,7 +65,7 @@ const BlogMobileFriendly = () => {
         <section className="mb-10">
           <h2 className="text-xl md:text-2xl font-bold mb-3">Bet Anywhere, Anytime</h2>
           <p className="text-muted-foreground leading-relaxed">
-            Whether you're commuting, at a cricket match, or relaxing at home — <strong className="text-foreground">bet on live cricket matches online</strong> from your phone. Khelo24Bet is among the <strong className="text-foreground">safe online sports betting websites 2026</strong> that truly puts mobile users first.
+            Whether you're commuting, at a cricket match, or relaxing at home — <strong className="text-foreground">bet on live cricket matches online</strong> from your phone. Khelo24x07 is among the <strong className="text-foreground">safe online sports betting websites 2026</strong> that truly puts mobile users first.
           </p>
         </section>
 

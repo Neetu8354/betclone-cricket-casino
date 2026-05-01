@@ -12,10 +12,10 @@ import blogImg from "@/assets/card-prediction.jpg";
 
 const BlogHowToJoin = () => {
   useSeo({
-    title: "How to Join Online Sports Gaming Website 2026 | Khelo24Bet",
-    description: "Complete guide on how to join online sports gaming website Khelo24Bet. Get free cricket ID, deposit via UPI, and start playing instantly.",
+    title: "How to Join Online Sports Gaming Website 2026 | Khelo24x07",
+    description: "Complete guide on how to join online sports gaming website Khelo24x07. Get free cricket ID, deposit via UPI, and start playing instantly.",
     canonical: "/blog/how-to-join-online-sports-gaming-website",
-    keywords: "join sports gaming website, free cricket id, khelo24bet join",
+    keywords: "join sports gaming website, free cricket id, khelo24x07 join",
   });
 
   return (
@@ -28,12 +28,12 @@ const BlogHowToJoin = () => {
           How to Join Online <span className="text-gradient-gold">Sports Gaming Website</span> in 2026
         </h1>
 
-        <img src={blogImg} alt="how to join khelo24bet online registration guide khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="how to join khelo24x07 online registration guide khelo24x07.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
-          <h2 className="text-xl md:text-2xl font-bold mb-3">Joining Khelo24Bet Is Easy</h2>
+          <h2 className="text-xl md:text-2xl font-bold mb-3">Joining Khelo24x07 Is Easy</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            Many players search for <strong className="text-foreground">how to join online sports gaming website</strong> but get confused by complicated processes. At Khelo24Bet, we've simplified everything. Our <strong className="text-foreground">online sports gaming platform</strong> lets you join via WhatsApp in under 60 seconds.
+            Many players search for <strong className="text-foreground">how to join online sports gaming website</strong> but get confused by complicated processes. At Khelo24x07, we've simplified everything. Our <strong className="text-foreground">online sports gaming platform</strong> lets you join via WhatsApp in under 60 seconds.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             No app download required. No lengthy registration forms. Just open WhatsApp, send us a message, and receive your free cricket ID. That's how simple it is to join this <strong className="text-foreground">sports betting platform online</strong>.
@@ -46,7 +46,7 @@ const BlogHowToJoin = () => {
             <div className="flex gap-4 p-4 rounded-xl bg-card/50 border border-border">
               <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground font-bold text-sm">1</span>
               <div>
-                <h3 className="font-bold mb-1">Click "Join" on Khelo24Bet</h3>
+                <h3 className="font-bold mb-1">Click "Join" on Khelo24x07</h3>
                 <p className="text-sm text-muted-foreground">Visit the website and tap the Join button to open WhatsApp chat.</p>
               </div>
             </div>
@@ -81,7 +81,7 @@ const BlogHowToJoin = () => {
         </div>
       </article>
 
-      <RelatedLinks links={[{ to: "/blog/how-to-login-khelo24bet", label: "How to Login Khelo24Bet" }, { to: "/blog/how-to-use-khelo24bet-online", label: "How to Use Khelo24Bet" }, { to: "/cricket", label: "Live Cricket Betting" }, { to: "/aviator", label: "Play Aviator Game" }]} />
+      <RelatedLinks links={[{ to: "/blog/how-to-login-khelo24x07", label: "How to Login Khelo24x07" }, { to: "/blog/how-to-use-khelo24x07-online", label: "How to Use Khelo24x07" }, { to: "/cricket", label: "Live Cricket Betting" }, { to: "/aviator", label: "Play Aviator Game" }]} />
       <Footer />
       <FloatingWhatsApp />
     </main>

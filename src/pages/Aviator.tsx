@@ -18,10 +18,10 @@ const STEPS = [
 
 const Aviator = () => {
   useSeo({
-    title: "Play Aviator on Khelo24Bet | Crash Game",
-    description: "Play Aviator crash game on Khelo24Bet and win big with smart cash outs.",
+    title: "Play Aviator on Khelo24x07 | Crash Game",
+    description: "Play Aviator crash game on Khelo24x07 and win big with smart cash outs.",
     canonical: "/aviator",
-    keywords: "aviator game online, crash game, khelo24bet aviator, play aviator",
+    keywords: "aviator game online, crash game, khelo24x07 aviator, play aviator",
   });
 
   return (
@@ -30,13 +30,13 @@ const Aviator = () => {
       <BreadcrumbNav items={[{ label: "Home", href: "/" }, { label: "Aviator" }]} />
       <section className="container py-12 md:py-20">
         <h1 className="text-3xl md:text-5xl font-black tracking-tight mb-4">
-          Aviator on <span className="text-gradient-gold">Khelo24Bet</span>
+          Aviator on <span className="text-gradient-gold">Khelo24x07</span>
         </h1>
         <p className="text-muted-foreground max-w-2xl mb-10">The most exciting crash game — place your bet, watch the multiplier rise, and cash out before it crashes!</p>
 
         <div className="grid md:grid-cols-2 gap-4 mb-8">
-          <img src={aviatorImg} alt="how to win aviator 10x with khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover" loading="lazy" />
-          <img src={aviatorImg2} alt="play now and get rewards with khelo24app.live" className="rounded-xl border border-border w-full aspect-video object-cover" loading="lazy" />
+          <img src={aviatorImg} alt="how to win aviator 10x with khelo24x07.live" className="rounded-xl border border-border w-full aspect-video object-cover" loading="lazy" />
+          <img src={aviatorImg2} alt="play now and get rewards with khelo24x07.live" className="rounded-xl border border-border w-full aspect-video object-cover" loading="lazy" />
         </div>
 
         <h2 className="text-xl md:text-2xl font-bold mb-6">How to Play Aviator</h2>
@@ -54,7 +54,7 @@ const Aviator = () => {
         </div>
 
         <div className="bg-card/50 border border-border rounded-2xl p-6 md:p-10 text-center max-w-2xl mx-auto mb-10">
-          <h3 className="text-lg md:text-xl font-bold mb-2">How to Win Aviator 10x with Khelo24Bet</h3>
+          <h3 className="text-lg md:text-xl font-bold mb-2">How to Win Aviator 10x with Khelo24x07</h3>
           <p className="text-muted-foreground text-sm mb-6">Master the timing, use our live stats dashboard, and join thousands of winners every day.</p>
           <Button onClick={openWA} size="lg" className="bg-gradient-gold text-gold-foreground font-bold">
             <MessageCircle className="h-5 w-5 mr-2" /> Play Aviator Now
@@ -63,10 +63,10 @@ const Aviator = () => {
 
         <div className="max-w-3xl mx-auto">
           <p className="text-muted-foreground leading-relaxed mb-3">
-            The <strong className="text-foreground">Aviator crash game</strong> on <strong className="text-foreground">khelo24app.live</strong> is one of the most popular instant-win games in India. Our <strong className="text-foreground">khelo24bet online platform</strong> offers real-time multiplier tracking, auto cash-out features, and provably fair gameplay that makes us stand out among <strong className="text-foreground">safe online sports betting websites 2026</strong>.
+            The <strong className="text-foreground">Aviator crash game</strong> on <strong className="text-foreground">khelo24x07.live</strong> is one of the most popular instant-win games in India. Our <strong className="text-foreground">khelo24x07 online platform</strong> offers real-time multiplier tracking, auto cash-out features, and provably fair gameplay that makes us stand out among <strong className="text-foreground">safe online sports betting websites 2026</strong>.
           </p>
           <p className="text-muted-foreground leading-relaxed">
-            Whether you're a beginner learning how to play or a pro chasing 100x multipliers, Khelo24Bet delivers the best Aviator experience on any <strong className="text-foreground">mobile friendly sports betting platform</strong>. With <strong className="text-foreground">fast withdrawal betting</strong> and 24x7 support, you can play confidently and cash out instantly.
+            Whether you're a beginner learning how to play or a pro chasing 100x multipliers, Khelo24x07 delivers the best Aviator experience on any <strong className="text-foreground">mobile friendly sports betting platform</strong>. With <strong className="text-foreground">fast withdrawal betting</strong> and 24x7 support, you can play confidently and cash out instantly.
           </p>
         </div>
       </section>
