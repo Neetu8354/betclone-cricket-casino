@@ -16,7 +16,7 @@ export const TrustSection = () => (
         India's Trusted <span className="text-gradient-gold">Online Sports Gaming</span> Platform
       </h2>
       <p className="text-sm md:text-base text-muted-foreground mt-3 max-w-2xl mx-auto">
-        Enjoy fast and secure betting on Khelo24Bet — one of the best places for online sports gaming. Whether you're looking for a <strong className="text-foreground">khelo24bet online platform</strong> to play cricket, Aviator or Teen Patti, we've got you covered with India's most trusted <strong className="text-foreground">sports betting platform online</strong>.
+        Enjoy fast and secure betting on Khelo24x07 — one of the best places for online sports gaming. Whether you're looking for a <strong className="text-foreground">khelo24x07 online platform</strong> to play cricket, Aviator or Teen Patti, we've got you covered with India's most trusted <strong className="text-foreground">sports betting platform online</strong>.
       </p>
     </div>
 
@@ -37,7 +37,7 @@ export const TrustSection = () => (
 
     <div className="mt-8 text-center">
       <p className="text-sm text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-        Khelo24Bet is among the <strong className="text-foreground">safe online sports betting websites 2026</strong> that Indian players trust. As a leading <strong className="text-foreground">mobile friendly sports betting platform</strong>, we offer seamless gameplay on every device with <strong className="text-foreground">fast withdrawal betting</strong> processed in under 5 minutes. Join thousands of players who already use our <strong className="text-foreground">online sports gaming platform</strong> daily.
+        Khelo24x07 is among the <strong className="text-foreground">safe online sports betting websites 2026</strong> that Indian players trust. As a leading <strong className="text-foreground">mobile friendly sports betting platform</strong>, we offer seamless gameplay on every device with <strong className="text-foreground">fast withdrawal betting</strong> processed in under 5 minutes. Join thousands of players who already use our <strong className="text-foreground">online sports gaming platform</strong> daily.
       </p>
     </div>
   </section>

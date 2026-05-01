@@ -16,16 +16,16 @@ import { useSeo } from "@/hooks/use-seo";
 
 const Index = () => {
   useSeo({
-    title: "Play Online Games on Khelo24Bet | Fast Withdrawal | 24x7 Support",
-    description: "Khelo24Bet - Best online sports gaming platform in India. Get free cricket ID instantly, play live cricket betting, Aviator, Teen Patti with fast withdrawals and 24x7 support.",
+    title: "Play Online Games on Khelo24x07 | Fast Withdrawal | 24x7 Support",
+    description: "Khelo24x07 - Best online sports gaming platform in India. Get free cricket ID instantly, play live cricket betting, Aviator, Teen Patti with fast withdrawals and 24x7 support.",
     canonical: "/",
-    keywords: "khelo24bet, khelo24app.live, online sports gaming platform, free cricket id, live cricket betting, aviator game, teen patti online, fast withdrawal betting, safe online sports betting",
+    keywords: "khelo24x07, khelo24x07.live, online sports gaming platform, free cricket id, live cricket betting, aviator game, teen patti online, fast withdrawal betting, safe online sports betting",
   });
 
   return (
     <main>
       <Header />
-      <h1 className="sr-only">Play Online Games on Khelo24Bet</h1>
+      <h1 className="sr-only">Play Online Games on Khelo24x07</h1>
       <HeroSlider />
       <StatsBar />
       <WinnersTicker />
