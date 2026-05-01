@@ -70,7 +70,7 @@ export const Footer = () => (
     </div>
     <div className="border-t border-border">
       <div className="container py-5 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-muted-foreground">
-        <p>© {new Date().getFullYear()} Khelo24Login.live. 18+ only. Play responsibly.</p>
+        <p>© {new Date().getFullYear()} Khelo24Bet. 18+ only. Play responsibly.</p>
         <p>Contact via WhatsApp • 24x7 Support</p>
       </div>
     </div>

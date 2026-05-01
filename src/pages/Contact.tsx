@@ -10,10 +10,10 @@ import { RelatedLinks } from "@/components/RelatedLinks";
 
 const Contact = () => {
   useSeo({
-    title: "Contact Us – Khelo24Login.live | 24x7 Support",
-    description: "Get 24x7 support for login, deposits, withdrawals and games on Khelo24Login.live.",
+    title: "Contact Us – Khelo24Bet | 24x7 Support",
+    description: "Get 24x7 support for login, deposits, withdrawals and games on Khelo24Bet.",
     canonical: "/contact",
-    keywords: "khelo24login contact, 24x7 support, betting support, customer service",
+    keywords: "khelo24bet contact, 24x7 support, betting support, customer service",
   });
 
   return (
@@ -22,7 +22,7 @@ const Contact = () => {
       <BreadcrumbNav items={[{ label: "Home", href: "/" }, { label: "Contact Us" }]} />
       <section className="container py-12 md:py-20">
         <h1 className="text-3xl md:text-5xl font-black tracking-tight mb-4">
-          Contact <span className="text-gradient-gold">Khelo24Login.live</span>
+          Contact <span className="text-gradient-gold">Khelo24Bet</span>
         </h1>
         <p className="text-muted-foreground max-w-2xl mb-10">We're here to help — reach out anytime for login issues, deposits, withdrawals or game queries.</p>
 
@@ -50,7 +50,7 @@ const Contact = () => {
 
         <div className="max-w-2xl mb-10">
           <p className="text-sm text-muted-foreground leading-relaxed">
-            Need help with your <strong className="text-foreground">khelo24login online platform</strong> account? Whether it's about <strong className="text-foreground">live cricket betting</strong>, <strong className="text-foreground">Aviator crash game</strong>, <strong className="text-foreground">Teen Patti online</strong>, deposits, or <strong className="text-foreground">fast withdrawal betting</strong> — our team is available 24x7 on WhatsApp. We're proud to be among the <strong className="text-foreground">safe online sports betting websites 2026</strong> with dedicated multilingual support.
+            Need help with your <strong className="text-foreground">khelo24bet online platform</strong> account? Whether it's about <strong className="text-foreground">live cricket betting</strong>, <strong className="text-foreground">Aviator crash game</strong>, <strong className="text-foreground">Teen Patti online</strong>, deposits, or <strong className="text-foreground">fast withdrawal betting</strong> — our team is available 24x7 on WhatsApp. We're proud to be among the <strong className="text-foreground">safe online sports betting websites 2026</strong> with dedicated multilingual support.
           </p>
         </div>
 
@@ -61,7 +61,7 @@ const Contact = () => {
         </div>
       </section>
 
-      <RelatedLinks links={[{ to: "/about", label: "About Khelo24Login.live" }, { to: "/blog/how-to-login-khelo24login", label: "How to Login — Step by Step" }, { to: "/cricket", label: "Live Cricket Betting" }, { to: "/aviator", label: "Play Aviator Game" }]} />
+      <RelatedLinks links={[{ to: "/about", label: "About Khelo24Bet" }, { to: "/blog/how-to-login-khelo24bet", label: "How to Login — Step by Step" }, { to: "/cricket", label: "Live Cricket Betting" }, { to: "/aviator", label: "Play Aviator Game" }]} />
       <Footer />
       <FloatingWhatsApp />
     </main>

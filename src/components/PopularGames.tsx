@@ -6,9 +6,9 @@ import cardAndar from "@/assets/card-andarbahar.jpg";
 import { Play } from "lucide-react";
 
 const GAMES = [
-  { img: cardLive, title: "Live Cricket Betting", to: "/cricket", alt: "play online games on khelo24login.live" },
-  { img: cardAndar, title: "Aviator", to: "/aviator", alt: "free cricket ID on khelo24login.live" },
-  { img: cardTeen, title: "Teen Patti", to: "/teen-patti", alt: "get your ID and play now at khelo24login.live" },
+  { img: cardLive, title: "Live Cricket Betting", to: "/cricket", alt: "play online games on khelo24app.live" },
+  { img: cardAndar, title: "Aviator", to: "/aviator", alt: "free cricket ID on khelo24app.live" },
+  { img: cardTeen, title: "Teen Patti", to: "/teen-patti", alt: "get your ID and play now at khelo24app.live" },
 ];
 
 export const PopularGames = () => (
@@ -18,7 +18,7 @@ export const PopularGames = () => (
         Popular <span className="text-gradient-gold">Games</span>
       </h2>
       <p className="text-sm text-muted-foreground mt-2 max-w-2xl mx-auto">
-        Explore top games on <strong className="text-foreground">khelo24login.live</strong> — from <strong className="text-foreground">live cricket betting</strong> and <strong className="text-foreground">Aviator crash game</strong> to <strong className="text-foreground">Teen Patti online</strong>. Get your <strong className="text-foreground">free cricket ID</strong> and start playing today.
+        Explore top games on <strong className="text-foreground">khelo24app.live</strong> — from <strong className="text-foreground">live cricket betting</strong> and <strong className="text-foreground">Aviator crash game</strong> to <strong className="text-foreground">Teen Patti online</strong>. Get your <strong className="text-foreground">free cricket ID</strong> and start playing today.
       </p>
     </div>
     <div className="grid sm:grid-cols-3 gap-4">

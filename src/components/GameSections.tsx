@@ -11,19 +11,19 @@ import cardLeader from "@/assets/card-leaderboard.jpg";
 type Game = { img: string; title: string; tag: string; hot?: boolean; alt?: string };
 
 const CRICKET: Game[] = [
-  { img: cardLive, title: "Live IPL Match", tag: "LIVE NOW", hot: true, alt: "live cricket betting on khelo24login.live" },
-  { img: cardFantasy, title: "Fantasy XI", tag: "Win ₹10L", alt: "fantasy cricket on khelo24login.live" },
-  { img: cardPred, title: "Match Predictions", tag: "Daily Quiz", alt: "cricket predictions on khelo24login.live" },
-  { img: cardLeader, title: "Leaderboards", tag: "Top 100", hot: true, alt: "leaderboards on khelo24login.live" },
+  { img: cardLive, title: "Live IPL Match", tag: "LIVE NOW", hot: true, alt: "live cricket betting on khelo24app.live" },
+  { img: cardFantasy, title: "Fantasy XI", tag: "Win ₹10L", alt: "fantasy cricket on khelo24app.live" },
+  { img: cardPred, title: "Match Predictions", tag: "Daily Quiz", alt: "cricket predictions on khelo24app.live" },
+  { img: cardLeader, title: "Leaderboards", tag: "Top 100", hot: true, alt: "leaderboards on khelo24app.live" },
 ];
 
 const CASINO: Game[] = [
-  { img: cardAndar, title: "Andar Bahar", tag: "₹10 - ₹5L", hot: true, alt: "play andar bahar on khelo24login.live" },
-  { img: cardTeen, title: "Teen Patti", tag: "Live Dealer", hot: true, alt: "play teen patti on khelo24login.live" },
-  { img: cardRoulette, title: "Lightning Roulette", tag: "500x", alt: "play roulette on khelo24login.live" },
-  { img: cardAndar, title: "Dragon Tiger", tag: "Fast Paced", alt: "play dragon tiger on khelo24login.live" },
-  { img: cardTeen, title: "32 Cards", tag: "Indian Live", alt: "play 32 cards on khelo24login.live" },
-  { img: cardRoulette, title: "Auto Roulette", tag: "24/7", alt: "play auto roulette on khelo24login.live" },
+  { img: cardAndar, title: "Andar Bahar", tag: "₹10 - ₹5L", hot: true, alt: "play andar bahar on khelo24app.live" },
+  { img: cardTeen, title: "Teen Patti", tag: "Live Dealer", hot: true, alt: "play teen patti on khelo24app.live" },
+  { img: cardRoulette, title: "Lightning Roulette", tag: "500x", alt: "play roulette on khelo24app.live" },
+  { img: cardAndar, title: "Dragon Tiger", tag: "Fast Paced", alt: "play dragon tiger on khelo24app.live" },
+  { img: cardTeen, title: "32 Cards", tag: "Indian Live", alt: "play 32 cards on khelo24app.live" },
+  { img: cardRoulette, title: "Auto Roulette", tag: "24/7", alt: "play auto roulette on khelo24app.live" },
 ];
 
 const Card = ({ g }: { g: Game }) => (
