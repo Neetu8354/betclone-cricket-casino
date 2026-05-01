@@ -18,10 +18,10 @@ const FEATURES = [
 
 const About = () => {
   useSeo({
-    title: "About Us – Khelo24x07 | Trusted Online Sports Gaming Platform",
-    description: "Khelo24x07 is a safe and reliable online sports gaming platform in India with fast payouts and 24x7 support.",
+    title: "About Us – Khelo24Bets | Trusted Online Sports Gaming Platform",
+    description: "Khelo24Bets is a safe and reliable online sports gaming platform in India with fast payouts and 24x7 support.",
     canonical: "/about",
-    keywords: "khelo24x07 about, online sports gaming platform india, safe betting platform",
+    keywords: "khelo24bets about, online sports gaming platform india, safe betting platform",
   });
 
   return (
@@ -30,7 +30,7 @@ const About = () => {
       <BreadcrumbNav items={[{ label: "Home", href: "/" }, { label: "About Us" }]} />
       <section className="container py-12 md:py-20">
         <h1 className="text-3xl md:text-5xl font-black tracking-tight mb-4">
-          About <span className="text-gradient-gold">Khelo24x07</span>
+          About <span className="text-gradient-gold">Khelo24Bets</span>
         </h1>
 
         <div className="grid md:grid-cols-2 gap-10 mt-10">
@@ -64,15 +64,15 @@ const About = () => {
         </div>
 
         <div className="mt-12">
-          <img src={aboutImg} alt="best betting platform in india. Join now and play fast khelo24x07.live" className="rounded-xl border border-border w-full max-w-3xl mx-auto aspect-video object-cover mb-8" loading="lazy" />
+          <img src={aboutImg} alt="best betting platform in india. Join now and play fast khelo24bets.live" className="rounded-xl border border-border w-full max-w-3xl mx-auto aspect-video object-cover mb-8" loading="lazy" />
 
           <div className="max-w-3xl mx-auto mb-8">
-            <h2 className="text-xl md:text-2xl font-bold mb-3">Why Khelo24x07 Is the Best Choice</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-3">Why Khelo24Bets Is the Best Choice</h2>
             <p className="text-muted-foreground leading-relaxed mb-3">
-              As one of the top <strong className="text-foreground">safe online sports betting websites 2026</strong>, Khelo24x07 offers a complete <strong className="text-foreground">khelo24x07 online platform</strong> experience. From <strong className="text-foreground">live cricket betting</strong> to <strong className="text-foreground">Aviator crash game</strong> and <strong className="text-foreground">Teen Patti online</strong>, every game is designed for Indian players.
+              As one of the top <strong className="text-foreground">safe online sports betting websites 2026</strong>, Khelo24Bets offers a complete <strong className="text-foreground">khelo24bets online platform</strong> experience. From <strong className="text-foreground">live cricket betting</strong> to <strong className="text-foreground">Aviator crash game</strong> and <strong className="text-foreground">Teen Patti online</strong>, every game is designed for Indian players.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Our platform stands out among <strong className="text-foreground">mobile friendly sports betting platforms</strong> with instant UPI deposits, <strong className="text-foreground">fast withdrawal betting</strong> in under 5 minutes, and a <strong className="text-foreground">free cricket ID</strong> delivered via WhatsApp. Whether you search for <strong className="text-foreground">how to join khelo24x07 online</strong> or the <strong className="text-foreground">best cricket prediction sites online</strong>, you'll find everything you need right here.
+              Our platform stands out among <strong className="text-foreground">mobile friendly sports betting platforms</strong> with instant UPI deposits, <strong className="text-foreground">fast withdrawal betting</strong> in under 5 minutes, and a <strong className="text-foreground">free cricket ID</strong> delivered via WhatsApp. Whether you search for <strong className="text-foreground">how to join khelo24bets online</strong> or the <strong className="text-foreground">best cricket prediction sites online</strong>, you'll find everything you need right here.
             </p>
           </div>
 

@@ -12,8 +12,8 @@ import blogImg from "@/assets/promo-live.jpg";
 
 const BlogSafeBetting = () => {
   useSeo({
-    title: "Safe Online Sports Betting Websites 2026 | Khelo24x07",
-    description: "Discover safe online sports betting websites in 2026. Khelo24x07 offers secure transactions, verified gameplay and fast withdrawals.",
+    title: "Safe Online Sports Betting Websites 2026 | Khelo24Bets",
+    description: "Discover safe online sports betting websites in 2026. Khelo24Bets offers secure transactions, verified gameplay and fast withdrawals.",
     canonical: "/blog/safe-online-sports-betting-websites-2026",
     keywords: "safe betting websites, secure sports betting, trusted betting platform",
   });
@@ -28,12 +28,12 @@ const BlogSafeBetting = () => {
           Safe Online Sports Betting <span className="text-gradient-gold">Websites 2026</span>
         </h1>
 
-        <img src={blogImg} alt="safe online sports betting websites 2026 khelo24x07.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
+        <img src={blogImg} alt="safe online sports betting websites 2026 khelo24bets.live" className="rounded-xl border border-border w-full aspect-video object-cover mb-8" loading="lazy" />
 
         <section className="mb-10">
           <h2 className="text-xl md:text-2xl font-bold mb-3">How to Identify Safe Betting Platforms</h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            With so many <strong className="text-foreground">online betting websites</strong> out there, finding <strong className="text-foreground">safe online sports betting websites 2026</strong> is crucial. Look for platforms with encrypted transactions, fast payouts, transparent odds and responsive support — like Khelo24x07.
+            With so many <strong className="text-foreground">online betting websites</strong> out there, finding <strong className="text-foreground">safe online sports betting websites 2026</strong> is crucial. Look for platforms with encrypted transactions, fast payouts, transparent odds and responsive support — like Khelo24Bets.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             Our <strong className="text-foreground">online sports gaming platform</strong> uses end-to-end encryption for all chats and transactions. Every deposit and withdrawal is processed through verified banking channels. This is what makes us one of the most trusted <strong className="text-foreground">sports betting platform online</strong> options in India.
@@ -49,7 +49,7 @@ const BlogSafeBetting = () => {
             </div>
             <div className="p-4 rounded-xl bg-card/50 border border-border">
               <h3 className="font-bold mb-1">✅ Fast Withdrawals (Under 5 Minutes)</h3>
-              <p className="text-sm text-muted-foreground">A truly safe platform doesn't hold your money. Khelo24x07 processes withdrawals in minutes.</p>
+              <p className="text-sm text-muted-foreground">A truly safe platform doesn't hold your money. Khelo24Bets processes withdrawals in minutes.</p>
             </div>
             <div className="p-4 rounded-xl bg-card/50 border border-border">
               <h3 className="font-bold mb-1">✅ 24x7 Customer Support</h3>
@@ -63,9 +63,9 @@ const BlogSafeBetting = () => {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl md:text-2xl font-bold mb-3">Why Khelo24x07 Is Safe</h2>
+          <h2 className="text-xl md:text-2xl font-bold mb-3">Why Khelo24Bets Is Safe</h2>
           <p className="text-muted-foreground leading-relaxed">
-            Khelo24x07 has been serving Indian players with a clean track record. Our <strong className="text-foreground">sports gaming app online</strong> platform prioritizes player safety above everything. Join thousands of happy players who trust us daily.
+            Khelo24Bets has been serving Indian players with a clean track record. Our <strong className="text-foreground">sports gaming app online</strong> platform prioritizes player safety above everything. Join thousands of happy players who trust us daily.
           </p>
         </section>
 
@@ -76,7 +76,7 @@ const BlogSafeBetting = () => {
         </div>
       </article>
 
-      <RelatedLinks links={[{ to: "/blog/best-online-sports-betting-platform-for-beginners", label: "Best Platform for Beginners" }, { to: "/blog/how-sports-betting-platforms-work-online", label: "How Betting Platforms Work" }, { to: "/blog/mobile-friendly-sports-betting-platforms", label: "Mobile Friendly Platforms" }, { to: "/about", label: "About Khelo24x07" }]} />
+      <RelatedLinks links={[{ to: "/blog/best-online-sports-betting-platform-for-beginners", label: "Best Platform for Beginners" }, { to: "/blog/how-sports-betting-platforms-work-online", label: "How Betting Platforms Work" }, { to: "/blog/mobile-friendly-sports-betting-platforms", label: "Mobile Friendly Platforms" }, { to: "/about", label: "About Khelo24Bets" }]} />
       <Footer />
       <FloatingWhatsApp />
     </main>
